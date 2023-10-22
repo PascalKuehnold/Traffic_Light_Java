@@ -8,4 +8,4 @@ The project is implemented in **Java**.
 
 To learn more about the project, please visit the Hyperskill project page:
 
-[Traffic Light Project on Hyperskill.org](https://hyperskill.org/projects/288?track=12)
+[Traffic Light (Java) Project on Hyperskill.org](https://hyperskill.org/projects/288?track=12)
