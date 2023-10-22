@@ -1,4 +1,4 @@
-## Hyperskill project
+## Traffic Light (Java) Hyperskill project
 
 This project is based on the Hyperskill.org platform. Hyperskill is a project-based learning platform that helps developers learn new skills and technologies by completing real-world projects.
 
